@@ -1,0 +1,9 @@
+.bottles-img {
+    width: 200px;
+}
+
+.bottle {
+    border: 2px solid #cbcbcb;
+    padding: 20px;
+    border-radius: 5px;
+}
